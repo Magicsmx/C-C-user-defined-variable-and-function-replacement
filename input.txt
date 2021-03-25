@@ -1,0 +1,21 @@
+int is_should_release_outside = 0;
+	zend_arena *arena = NULL;
+	void *checkpoint;
+	int from_memory; /* if the script we've got is stored in SHM */
+persistent_script = zend_file_cache_script_load(file_handle ,&is_should_release_outside,&arena,&checkpoint);
+op_array = zend_accel_load_script(persistent_script, 1);
+		if(is_should_release_outside){
+		    // void *checkpoint = zend_arena_checkpoint(arena);
+		    zend_arena_release(&arena, checkpoint);
+		}
+		return op_array;
+zend_op_array *op_array = NULL;
+	int is_should_release_outside = 0;
+	zend_arena *arena = NULL;
+	void *checkpoint  = NULL;
+persistent_script = zend_file_cache_script_load(file_handle,&is_should_release_outside,&arena,&checkpoint);
+op_array = zend_accel_load_script(persistent_script, from_shared_memory);
+	if(from_shared_memory && is_should_release_outside){
+		zend_arena_release(&arena, checkpoint);
+	}
+	return op_array;

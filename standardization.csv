@@ -1,0 +1,91 @@
+standardization
+return 1000000 - VAR1;
+"return (VAR2);VAR3 = FUN1(VAR4, 1, &VAR5);VAR6 = VAR7;	
+				FUN2(VAR4->VAR8);	
+				VAR7 = VAR6;"""");	VAR9 = VAR10;"
+"VAR11 = VAR11.FUN3("""",""""); VAR12 = VAR12.FUN3("""","""");"
+while(!FUN4(VAR13)); if (VAR14 != (unsigned int) VAR14);  if((VAR15) (VAR16.VAR17+VAR14) > FUN5(VAR13))
+"try (XMLEncoder VAR18 = new FUN6(new FUN7(new FUN8(VAR19)))) {	
+			VAR18.FUN9(VAR20);	
+		}"
+"VAR21->VAR22 = VAR23->VAR24;		VAR21->VAR25 = (VAR26*)FUN10(VAR21->VAR22, sizeof(VAR26)); VAR27 = FUN11(VAR28); if (!FUN12(VAR28, VAR29)); static void FUN13(VAR30* VAR28, VAR31* VAR32);"
+"<module VAR33="""">
+        <property VAR33="""" VAR34=""""/>	        <property VAR33="""" VAR34=""""/>
+        <property VAR33="""" VAR34=""""/>	        <property VAR33="""" VAR34=""""/>
+    </VAR35>	    </VAR35>"
+"VAR36, VAR37 := VAR38.FUN14(""""+VAR39.FUN15(VAR40)+"""", VAR38.VAR41, 0777)	
+		if VAR37 != VAR42 {	
+			if VAR43.FUN16(VAR37.FUN17(), """") {	
+				continue	
+			}	
+			if VAR43.FUN16(VAR37.FUN17(), """") {	
+				continue	
+			}"
+" VAR44.FUN18(VAR45 + VAR46, VAR47=VAR48, VAR49=VAR50, VAR51=VAR52)"
+"static void FUN19(VAR53 *, int);static void FUN20(VAR53 *, int);    { """",       VAR54 },	FUN21(VAR55, VAR56);	
+	FUN21(VAR55, VAR57);"
+"if [[ """" == '' ]]; then	
+    source VAR58/VAR59/VAR60"
+"	$VAR61       = FUN22( $VAR62[''] ) ? FUN23( $VAR62[''] ) : '';	$VAR63         = """" . FUN24( FUN25( $VAR62[''] ) );"
+"(void) FUN26(VAR13,VAR64,VAR65);(void) FUN27(VAR13,1,VAR65);"
+"	struct cpu_thread_history VAR66;struct thread VAR67;	FUN28(&VAR67, 0, sizeof(struct VAR68)); VAR67.VAR69 = VAR69;VAR67.VAR70 = VAR71;"
+"VAR72.VAR73 = VAR74.VAR75.IDMappings	VAR74.VAR75.VAR76 = VAR77.ProcessLabel	
+	VAR74.VAR75.VAR78 = VAR77.MountLabel	
+	VAR74.VAR75.VAR79 = VAR77.Dir	
+	VAR74.VAR80.VAR81 = VAR77.VAR81"
+" """": """"  if (FUN29($VAR82) == ''){"
+if (*VAR83++ != (VAR84 & 0xff) || *VAR83++ != ((VAR84 >> 8) & 0xff) || *VAR83++ != ((VAR84 >> 16) & 0xff) || *VAR83++ != ((VAR84 >> 24) & 0xff)) if (*VAR83++ != (VAR84 & 0xff) || *VAR83++ != ((VAR84 >> 8) & 0xff))
+"VAR85=FUN30(&VAR86); VAR87=FUN30(&VAR86); if (VAR87 == (VAR88 *) NULL)
+break; VAR89=FUN31(VAR85,VAR87,
+VAR90,VAR91);
+VAR85=FUN32(VAR85);
+ VAR87=FUN32(VAR87);"
+"if (VAR92 < VAR93) {FUN33(VAR94); goto VAR95;} FUN34(VAR94, VAR96); FUN34(VAR94, VAR96); VAR95:"
+"void FUN35(struct VAR97 *VAR94, struct VAR98 *VAR99)"
+"void (*VAR100)(struct VAR97 *, struct VAR98 *); static inline void FUN34(struct VAR97 *VAR94, VAR99->VAR101->FUN18(VAR94, VAR99);void FUN35(struct VAR97 *, struct VAR98 *);"
+"        '',	
+        VAR102.VAR103,	
+        '',	
+        { :VAR104 => VAR105, :VAR106 => '' }	
+      )	
+      FUN36(VAR107, VAR108, '' => '')	    VAR109 = (VAR110 * 2 - VAR111.VAR112)/2		VAR109 = (VAR110 * 2 - VAR111.VAR112)/2
+	    VAR111 << """" * padding_size		VAR111 << """" * VAR109
+        FUN37(VAR113::VAR114, """") if VAR111.VAR112 > (VAR110*2)"
+"  if (typeof VAR115.VAR33 == '') {	                                       VAR116 += VAR115.VAR33.VAR33 + '';else {	
+                    VAR116 += VAR115.VAR33 + '';	
+                }"
+"'' => $this->VAR117->FUN38($this->VAR118->FUN39('')),$VAR119 = $this->VAR117->FUN38($this->VAR118->FUN39(''));if (FUN40($VAR120['']) || FUN40($VAR120['']))"
+"#$VAR121 = $VAR122->FUN41(FUN42($VAR108, '')); $VAR123['']   = ($VAR33) ? $VAR33 : $VAR124;$VAR123['']  = ($VAR33) ? $VAR33 : $VAR124;$VAR121 = $VAR122->FUN41(FUN42($VAR108, ''), FUN43(''=>'') );	"
+"VAR125.FUN44('').VAR126=VAR127;                    VAR125.FUN44("""").VAR126 = FUN45("""");  VAR125.FUN44("""").VAR126 = FUN45("""");"
+"VAR128.FUN46(VAR129.VAR130, VAR129.VAR131, VAR132, '', VAR132) VAR133 FUN47(VAR128):"""": lambda VAR134: [VAR135.text for v in VAR134],        """": lambda VAR134: VAR134[0].VAR136,"
+"char *const argv[] = { """", """", (const char*)VAR137->VAR138.VAR139.VAR140 };"
+"unsigned long VAR141 =	
+			(unsigned long)FUN48(VAR142[VAR143]);	
+		unsigned long VAR144 =	
+			(unsigned long)FUN48(VAR142[VAR145]);"
+ $VAR95 = FUN49($VAR95); VAR146 = VAR147.$2;
+"if (!VAR148->VAR55.VAR149)	
+		VAR150 = VAR151;FUN28(VAR152, 0, sizeof(*VAR152));"
+VAR153.VAR154.VAR155.serializationimportload_pem_public_key  from VAR156.VAR154.VAR155.serialization import VAR157
+"FUN50(VAR158 *VAR46, rpmfi VAR159); if (FUN51(VAR160.VAR161)) return 0; VAR150 = FUN52(VAR162, VAR159);"
+" VAR163 = [[XMPPMessageCarbons VAR164] VAR165];	
+    [VAR128.messageCarbons VAR60:VAR128.VAR166];	
+- (void)VAR167:(VAR168 *)xmppMessage VAR49:(VAR169 *)VAR49"
+"  VAR170=NULL;
+        VAR171=(unsigned char *) NULL;
+
+        if (VAR112 != 0)
+          {
+            VAR171=(unsigned char *) FUN53(VAR112,
+             sizeof(*VAR171));
+
+            if (VAR171 == (unsigned char *) NULL)
+              FUN54(VAR172,
+                """");
+
+            for (VAR173=0; VAR173 < (VAR174) VAR112; VAR173++)
+              VAR171[VAR173]=(unsigned char) FUN55(VAR13);
+
+            VAR170=VAR171;
+          }"
+"if ((VAR9 = FUN56(VAR28, &VAR175, VAR176)) < 0) { FUN57(&VAR175);"
